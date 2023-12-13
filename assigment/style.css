@@ -1,0 +1,39 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.tot{
+    width: 100%;
+    height: 200px;
+    background-color: red;
+}
+#rrr{
+    width: 75%;
+    height: 200px;
+    background-color: blue;
+}
+.lol{
+    width: 50%;
+    height: 200px;
+    background-color: black;
+}
+.mohamed{
+    width: 25%;
+    height: 200px;
+    background-color: blueviolet;
+}
+.lol2{
+    width: 50%;
+    height: 200px;
+    background-color: aqua;
+}
+.lol3{
+    width: 75%;
+    height: 200px;
+    background-color:yellow ;
+}
+.lol4{
+    width: 100%;
+    height: 200px;
+    background-color: green;
+}
